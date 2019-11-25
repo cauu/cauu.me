@@ -1,0 +1,11 @@
+_Store 
+Thumbs.db
+*.log
+.deploy*/
+node_modules/
+.npmignore
+public/
+.idea
+package-lock.json
+db.json
+.vscode
