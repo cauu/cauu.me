@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Dandy Xu's Pit
-subtitle: Cast a cold eye, on Life on Death, Horseman, Passby!
+title: Martin's Dean
+#subtitle: Cast a cold eye, on Life on Death, Horseman, Passby!
+subtitle: Cast a cold eye, on Life on Death, Horseman, 123!
 description: Coding, Travelling, Reading and Enjoying
 author: Dandy Xu
-language: en
+language: zh-CN
 timezone: Europe/Dublin
 
 # URL
