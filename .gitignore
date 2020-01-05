@@ -4,7 +4,6 @@ Thumbs.db
 .deploy*/
 node_modules/
 .npmignore
-public/
 .idea
 package-lock.json
 db.json
