@@ -7,13 +7,13 @@ title: Martin's Dean
 #subtitle: Cast a cold eye, on Life on Death, Horseman, Passby!
 subtitle: Cast a cold eye, on Life on Death, Horseman, 123!
 description: Coding, Travelling, Reading and Enjoying
-author: Dandy Xu
+author: Martin Cai
 language: zh-CN
 timezone: Europe/Dublin
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://dandyxu.me
+url: http://cauu.online
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -71,10 +71,10 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:dandyxu/dandyxu.github.io.git
-  branch: master
+# deploy:
+#   type: git
+#   repo: git@github.com:dandyxu/dandyxu.github.io.git
+#   branch: master
   
 # Header
 ## Menu setting for Edinburgh theme
