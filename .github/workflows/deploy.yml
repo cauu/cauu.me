@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: Build and Deploy
-      uses: cauu/github-pages-deploy-action@releases/v3-dev
+      uses: cauu/github-pages-deploy-action@releases/v3
       with:
         TARGET_REPO: cauu/cauu.github.io
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
