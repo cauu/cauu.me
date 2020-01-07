@@ -12,9 +12,9 @@ jobs:
       uses: actions/checkout@master
 
     - name: Build and Deploy
-      uses: cauu/github-pages-deploy-action@releases/v3
+      uses: cauu/github-pages-deploy-action@releases/v3-dev
       with:
-        TARGET_REPO: cauu/cauu.github.io,
+        TARGET_REPO: cauu/cauu.github.io
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
         FOLDER: public
