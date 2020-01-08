@@ -1,4 +1,4 @@
-name: GitHub Actions Build and Deploy cauu.github.io
+name: Build and Deploy to cauu.github.io
 
 on:
   push:
