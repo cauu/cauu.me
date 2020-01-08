@@ -16,6 +16,7 @@ jobs:
       with:
         TARGET_REPO: cauu/cauu.github.io
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BRANCH: gh-pages
+        BRANCH: master
         FOLDER: public
         BUILD_SCRIPT: npm install && npm run build
+        CLEAN: true
